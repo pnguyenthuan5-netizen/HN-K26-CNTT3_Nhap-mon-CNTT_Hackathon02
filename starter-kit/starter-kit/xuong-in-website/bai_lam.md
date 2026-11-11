@@ -3,7 +3,7 @@
 - **Mã đề:** 06
 - **Họ tên:*Nguyễn Thuận Phát*
 - **Lớp:*CNTT3*
-- **Link repository:**
+- **Link repository:*https://github.com/pnguyenthuan5-netizen/HN-K26-CNTT3_Nhap-mon-CNTT_Hackathon02*
 - **Hệ điều hành (Windows/macOS):*Windows*
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
